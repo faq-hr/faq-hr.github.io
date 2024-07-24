@@ -415,6 +415,32 @@
   padding: 20px;
 }
 
+.u-section-1 .u-accordion-item-16 {
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-accordion-link-16 {
+  background-image: none;
+  font-weight: 700;
+  padding: 0 30px;
+}
+
+.u-section-1 .u-icon-16 {
+  height: 17px;
+  width: 17px;
+  color: rgb(0, 0, 0);
+}
+
+.u-section-1 .u-accordion-pane-16 {
+  min-height: 150px;
+  background-image: none;
+}
+
+.u-section-1 .u-container-layout-16 {
+  padding: 20px;
+}
+
 @media (max-width: 991px) {
   .u-section-1 .u-text-2 {
     width: 720px;
@@ -497,6 +523,11 @@
   }
 
   .u-section-1 .u-container-layout-15 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-16 {
     padding-left: 10px;
     padding-right: 10px;
   }
